@@ -3,7 +3,7 @@ It calculates student results based on marks in 3 subjects and assigns grades us
 Also shows overall passed and failed student summary.
 
 ## Output Screenshot
-![image_alt](https://github.com/titarek/Student-Grading-System/blob/7c297434438024a3fe7e0b377cbe2acbfd084add/output.png)
+![image_alt](https://github.com/titarek/Student-Grading-System/blob/b3dd07baee845cb7624525a022e4bf09fd02ed97/output.png)
 
 ## 🎯 Aim
 To write a Bash script that:
